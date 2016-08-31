@@ -1,0 +1,19 @@
+# Build artifacts
+node_modules
+npm-debug.log
+bower_components
+
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+
+# Others
+notes.txt
+config.js
+.env
